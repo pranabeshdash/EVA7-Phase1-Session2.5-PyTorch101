@@ -8,7 +8,7 @@ A neural network that takes : 2 inputs:
 The "number" that was represented by the MNIST image (predict 5), and
 The "sum" of this number with the random number and the input image to the network (predict 5 + 7 = 12)
 
-[Assignment](pranabeshdash.github.com/EVA7-Phase1-Session2.5-PyTorch101/assign-1.jpg)
+[Assignment](pranabeshdash.github.com/EVA7-Phase1-Session2.5-PyTorch101/assign-1.png)
 
 #**Training log**
 
